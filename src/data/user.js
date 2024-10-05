@@ -122,7 +122,27 @@ const INFO = {
             linkText: "GitHub Link",
 			demoText: "Demo Video",
             link: "https://github.com/AdiBhan/kmeans-visualizer",
+		}, 
+
+		{
+			title: "abhan03-assignment-3",
+            description:
+                "Applying SVD to MNIST dataset and train and train a logistic regression classifier",
+            logos: [
+                "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png",
+			
+				"https://cdn.worldvectorlogo.com/logos/numpy-1.svg",
+				"https://4008838.fs1.hubspotusercontent-na1.net/hubfs/4008838/supported-scipy.png",
+			
+				"https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png",
+				"https://cdn.worldvectorlogo.com/logos/pandas.svg"
+
+        
+            ],
+            linkText: "GitHub Link",
+            link: "https://github.com/AdiBhan/abhan03-assignment-3",
 		}
+		
 	], 
 };
 
